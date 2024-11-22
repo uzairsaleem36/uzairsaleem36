@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uzair </h1>
-<h3 align="center">A passionate Front-End developer from Karachi,Pakistan</h3>
+<h3 align="center">A passionate Full-Stack Developer from Karachi,Pakistan</h3>
 
 <h3 align="left">About Me:</h3>
 
@@ -7,7 +7,7 @@
 I'm a passionate Computer Science student at Aptech, specializing in web development, with a strong focus on creating innovative and efficient web applications. With strong problem-solving skills and a deep curiosity for new technologies, I'm eager to contribute to exciting projects. I'm looking to collaborate with like-minded individuals and organizations to explore cutting-edge advancements and make a meaningful impact. Let's connect and build something amazing together! 🤝
 
 
-<img align="right" alt="coding" width="300" src=""/>
+<img align="right" alt="coding" width="300"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
