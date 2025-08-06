@@ -4,7 +4,14 @@
 <h3 align="left">About Me:</h3>
 
 
-I'm a passionate Computer Science student at Aptech, specializing in web development, with a strong focus on creating innovative and efficient web applications. With strong problem-solving skills and a deep curiosity for new technologies, I'm eager to contribute to exciting projects. I'm looking to collaborate with like-minded individuals and organizations to explore cutting-edge advancements and make a meaningful impact. Let's connect and build something amazing together! 🤝
+I'm passionate about **full stack web development**, with a strong focus on building innovative, efficient, and user-friendly web applications.
+
+- 🔧 Tech Stack: **MongoDB | Express | React | Node.js (MERN)**
+- 💡 Always learning new tools, frameworks & best practices
+- 🤝 Open to collaboration on meaningful projects
+- 🚀 Let's build something awesome together!
+
+📫 **Let's connect**: your.email@example.com
 
 
 <img align="right" alt="coding" width="300"/>
