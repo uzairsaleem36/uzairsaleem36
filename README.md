@@ -11,14 +11,11 @@ I'm passionate about **full stack web development**, with a strong focus on buil
 - 🤝 Open to collaboration on meaningful projects
 - 🚀 Let's build something awesome together!
 
-📫 **Let's connect**: your.email@example.com
-
-
 <img align="right" alt="coding" width="300"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/uzair.memon337@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzair.memon337@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uzair.memon337@gmail.com" target="blank"> <img align="center" src="" alt="uzair.memon337@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
