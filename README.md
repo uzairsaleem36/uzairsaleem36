@@ -11,11 +11,12 @@ I'm passionate about **full stack web development**, with a strong focus on buil
 - 🤝 Open to collaboration on meaningful projects
 - 🚀 Let's build something awesome together!
 
-<img align="right" alt="coding" width="300"/>
+<img align="right" alt="coding" width="300" src="https://imgs.search.brave.com/OtoKUq6U6BQq7t69rvzfh8LkmBaF5OiByK1zc6R6emk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS80/ZDlmNWVjY2ViNzEx/ZWVjNmUyMDE4ZjM4/YTU2NzdkYzY1N2M5/NzM4ZDRhNjViYTNi/OTI4YzQxYzBhNDVi/NDM5LzY4NzQ3NDcw/NzMzYTJmMmY2ZDY5/NzI2ZjJlNmQ2NTY0/Njk3NTZkMmU2MzZm/NmQyZjZkNjE3ODJm/MzEzMzM2MzAyZjMw/MmEzNzUxMzM3OTc2/NTM0OTc2NWY3NDMw/Njk2ZjRhMmQ1YTJl/Njc2OTY2" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/uzair.memon337@gmail.com" target="blank"> <img align="center" src="" alt="uzair.memon337@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uzair.memon337@gmail.com" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzair.memon337@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
